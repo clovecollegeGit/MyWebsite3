@@ -1,0 +1,41 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f2f4f7;
+color: #333333;
+}
+
+/* Header */
+.hero-section {
+background-color: #26384a;
+}
+
+/* Profile picture */
+.profile-image {
+width: 200px;
+height: 200px;
+object-fit: cover;
+margin: 20px auto;
+}
+
+/* Bootstrap cards */
+.card {
+border: none;
+border-radius: 10px;
+box-shadow: 0 2px 8px #cccccc;
+transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Section headings */
+.card-title {
+color: #26384a;
+}
+
+/* Footer */
+footer {
+background-color: #26384a;
+}
+
+/* Back to Top button */
+#topButton {
+display: none;
+}
