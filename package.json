@@ -1,0 +1,13 @@
+
+{
+  "name": "mywebsite3",
+  "version": "1.0.0",
+  "description": "My personal website running in Docker for WEB 140",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
